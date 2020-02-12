@@ -1,0 +1,5 @@
+﻿  6.14 PE number 3.cpp
+C:\Users\Julian\source\repos\6.14 PE number 3\6.14 PE number 3\6.14 PE number 3.cpp(13,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Julian\source\repos\6.14 PE number 3\6.14 PE number 3\6.14 PE number 3.cpp(25,18): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Julian\source\repos\6.14 PE number 3\6.14 PE number 3\6.14 PE number 3.cpp(18,20): warning C4101: 'result': unreferenced local variable
+  6.14 PE number 3.vcxproj -> C:\Users\Julian\source\repos\6.14 PE number 3\Debug\6.14 PE number 3.exe

@@ -1,0 +1,6 @@
+﻿  6.14 PE number 2.cpp
+C:\Users\Julian\source\repos\6.14 PE number 2\6.14 PE number 2\6.14 PE number 2.cpp(9,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Julian\source\repos\6.14 PE number 2\6.14 PE number 2\6.14 PE number 2.cpp(10,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Julian\source\repos\6.14 PE number 2\6.14 PE number 2\6.14 PE number 2.cpp(11,24): warning C4305: 'initializing': truncation from 'double' to 'float'
+C:\Users\Julian\source\repos\6.14 PE number 2\6.14 PE number 2\6.14 PE number 2.cpp(12,25): warning C4305: 'initializing': truncation from 'double' to 'float'
+  6.14 PE number 2.vcxproj -> C:\Users\Julian\source\repos\6.14 PE number 2\Debug\6.14 PE number 2.exe
